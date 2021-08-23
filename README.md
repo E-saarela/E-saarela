@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @E-saarela
 - 👀 Computers and programming
-- 🌱 Java C#
+- 🌱 Java, C#
 - 💞️ Not looking to collaborate atm, just learning new stuff
 - 📫 How to reach me ...
 
